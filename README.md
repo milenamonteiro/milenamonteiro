@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">Olá! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Eu sou a Milena</h2>
 
 <!--
 **milenamonteiro/milenamonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://raw.githubusercontent.com/milenamonteiro/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/milenamonteiro/github-stats-transparent/output/generated/languages.svg)
