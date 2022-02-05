@@ -1,4 +1,4 @@
-<h2 align="center">Olá! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Eu sou a Milena</h2>
+### Olá! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Eu sou a Milena
 
 <!--
 **milenamonteiro/milenamonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
