@@ -1,5 +1,26 @@
 <p><a href="https://www.linkedin.com/in/milenarmonteiro/"><img src="https://img.shields.io/badge/-milenarmonteiro-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/milenarmonteiro/" alt="Linkedin Badge"></a> </p>
 
+<details>
+  <summary><strong>English version</strong></summary>
+  
+  ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px" width="20px"> Heya! I'm Milena Monteiro
+
+
+I'm a **Computer Science undergrad student at USP** and I'm an **associate in Computer Technology** from ETEC Basilides de Godoy in São Paulo
+
+Developed projects:
+- 🌱 [Organ](https://github.com/experiencesystems/organ): Agribusiness Desktop Management System
+- 🖥️ [Organ Web](https://github.com/experiencesystems/organ-web): Agribusiness Web Management System, Ecommerce Integrated
+- 🎲 [Turbo Dice](https://github.com/milenamonteiro/turbo-dice): Dice Roller Android App
+- 🐾 [Pet View](https://github.com/milenamonteiro/pet-view): Veterinary Clinic Desktop Management System
+
+I'm a Full Stack Developer and I like to contribute to all areas of my projects, but I work majorly on their back-end. I'm focused on specializing myself in Web and API Development, always open to learning experiences.
+</details>
+
+---
+
+<details open>
+<summary><strong>Portuguese version</strong></summary>
 
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px" width="20px"> Olá! Eu sou a Milena Monteiro
 
@@ -12,7 +33,8 @@ Projetos desenvolvidos:
 - 🎲 [Turbo Dice](https://github.com/milenamonteiro/turbo-dice): Aplicativo Android de um Rolador de Dados
 - 🐾 [Pet View](https://github.com/milenamonteiro/pet-view): Sistema Desktop Gestor de Clínica Veterinária
 
-Gosto de participar em todas as áreas dos projetos, mas atuo principalmente no back-end deles, e foco em me especializar em Desenvolvimento Web e de APIs
+Sou desenvolvedora Full Stack e gosto de participar em todas as áreas dos projetos, mas atuo principalmente no back-end deles, e foco em me especializar em Desenvolvimento Web e de APIs, sempre aberta a experiências de aprendizado.
+</details>
 
 <!--
 **milenamonteiro/milenamonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +50,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
 
 ![](https://raw.githubusercontent.com/milenamonteiro/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/milenamonteiro/github-stats-transparent/output/generated/languages.svg)
