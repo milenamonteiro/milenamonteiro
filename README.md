@@ -10,7 +10,7 @@ I'm a **Computer Science undergrad student at USP** and I'm an **associate in Co
 
 Developed projects:
 - 🌱 [Organ](https://github.com/experiencesystems/organ): Agribusiness Desktop Management System
-- 🖥️ [Organ Web](https://github.com/experiencesystems/organ-web): Agribusiness Web Management System, Ecommerce Integrated
+- 🖥️ [Organ Web](https://github.com/experiencesystems/organ-web): Agribusiness Web Management System, Ecommerce-Integrated
 - 🎲 [Turbo Dice](https://github.com/milenamonteiro/turbo-dice): Dice Roller Android App
 - 🐾 [Pet View](https://github.com/milenamonteiro/pet-view): Veterinary Clinic Desktop Management System
 
