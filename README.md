@@ -1,4 +1,4 @@
-<p><a href="https://www.linkedin.com/in/milenarmonteiro/"><img src="https://img.shields.io/badge/-milenarmonteiro-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/milenarmonteiro/" alt="Linkedin Badge"></a> </p>
+<p><a href="https://www.linkedin.com/in/milenarmonteiro/"><img src="https://img.shields.io/badge/-milenarmonteiro-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/milenarmonteiro/" alt="Linkedin Badge"></a> <a href="https://dev.to/milenamonteiro"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"> </p>
 
 <details>
   <summary><strong>English version</strong></summary>
