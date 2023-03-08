@@ -11,7 +11,7 @@ I'm a **Computer Science undergrad student at USP** and I'm an **associate in Co
 Developed projects:
 - 🌱 [Organ](https://github.com/experiencesystems/organ): Agribusiness Desktop Management System
 - 🖥️ [Organ Web](https://github.com/experiencesystems/organ-web): Agribusiness Web Management System, Ecommerce-Integrated
-- 🎲 [Turbo Dice](https://github.com/milenamonteiro/turbo-dice): Dice Roller Android App
+- 🎲 [Rolar Dados](https://github.com/milenamonteiro/rolar-dados): Dice Roller Android App
 - 🐾 [Pet View](https://github.com/milenamonteiro/pet-view): Veterinary Clinic Desktop Management System
 
 I'm a Full Stack Developer and I like to contribute to all areas of my projects, but I work majorly on their back-end. I'm focused on specializing myself in Web and API Development, always open to learning experiences.
@@ -30,7 +30,7 @@ Sou **estudante de Ciência da Computação na USP de Ribeirão Preto** e **prof
 Projetos desenvolvidos:
 - 🌱 [Organ](https://github.com/experiencesystems/organ): Sistema Desktop de Gestão de Agronegócios
 - 🖥️ [Organ Web](https://github.com/experiencesystems/organ-web): Sistema Web de Gestão de Agronegócios com um Ecommerce Integrado
-- 🎲 [Turbo Dice](https://github.com/milenamonteiro/turbo-dice): Aplicativo Android de um Rolador de Dados
+- 🎲 [Rolar Dados](https://github.com/milenamonteiro/rolar-dados): Aplicativo Android de um Rolador de Dados
 - 🐾 [Pet View](https://github.com/milenamonteiro/pet-view): Sistema Desktop Gestor de Clínica Veterinária
 
 Sou desenvolvedora Full Stack e gosto de participar em todas as áreas dos projetos, mas atuo principalmente no back-end deles, e foco em me especializar em Desenvolvimento Web e de APIs, sempre aberta a experiências de aprendizado.
