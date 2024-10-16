@@ -6,7 +6,7 @@
   ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px" width="20px"> Heya! I'm Milena Monteiro
 
 
-I'm a **Computer Science undergrad student at USP** and I'm an **associate in Computer Technology** from ETEC Basilides de Godoy in São Paulo
+**Computer Science graduate from USP** with a passion for **Full Stack Development**, focusing mainly on **back-end and API Development**. I’m passionate about contributing to all areas of my projects, always eager to expand my skills and take on new challenges.
 
 Developed projects:
 - 🌱 [Organ](https://github.com/experiencesystems/organ): Agribusiness Desktop Management System
@@ -14,7 +14,7 @@ Developed projects:
 - 🎲 [Rolar Dados](https://github.com/milenamonteiro/rolar-dados): Dice Roller Android App
 - 🐾 [Pet View](https://github.com/milenamonteiro/pet-view): Veterinary Clinic Desktop Management System
 
-I'm a Full Stack Developer and I like to contribute to all areas of my projects, but I work majorly on their back-end. I'm focused on specializing myself in Web and API Development, always open to learning experiences.
+I design and develop robust, scalable web and cloud-based solutions, always staying up to date with the latest technologies in **Web, API, and Cloud Development** to drive impactful results.
 </details>
 
 ---
@@ -25,7 +25,7 @@ I'm a Full Stack Developer and I like to contribute to all areas of my projects,
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px" width="20px"> Olá! Eu sou a Milena Monteiro
 
 
-Sou **estudante de Ciência da Computação na USP de Ribeirão Preto** e **profissional Técnica de Informática** pela ETEC Basilides de Godoy em São Paulo
+**Graduanda em Ciência da Computação pela USP** com foco em **Desenvolvimento Full Stack**, especialmente em **back-end e desenvolvimento de APIs**. Gosto de contribuir em todas as áreas dos meus projetos, sempre buscando expandir minhas habilidades e enfrentar novos desafios.
 
 Projetos desenvolvidos:
 - 🌱 [Organ](https://github.com/experiencesystems/organ): Sistema Desktop de Gestão de Agronegócios
@@ -33,7 +33,7 @@ Projetos desenvolvidos:
 - 🎲 [Rolar Dados](https://github.com/milenamonteiro/rolar-dados): Aplicativo Android de um Rolador de Dados
 - 🐾 [Pet View](https://github.com/milenamonteiro/pet-view): Sistema Desktop Gestor de Clínica Veterinária
 
-Sou desenvolvedora Full Stack e gosto de participar em todas as áreas dos projetos, mas atuo principalmente no back-end deles, e foco em me especializar em Desenvolvimento Web e de APIs, sempre aberta a experiências de aprendizado.
+Projeto e desenvolvo soluções robustas e escaláveis para web e nuvem, sempre me mantendo atualizada com as mais recentes tecnologias em **Desenvolvimento Web, APIs e Cloud** para gerar bons resultados.
 </details>
 
 <!--
