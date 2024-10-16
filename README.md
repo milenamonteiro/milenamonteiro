@@ -1,6 +1,26 @@
 <p><a href="https://www.linkedin.com/in/milenarmonteiro/"><img src="https://img.shields.io/badge/-milenarmonteiro-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/milenarmonteiro/" alt="Linkedin Badge"></a> <a href="https://dev.to/milenamonteiro"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"> </p>
 
+
 <details>
+<summary><strong>Portuguese version</strong></summary>
+
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px" width="20px"> Olá! Eu sou a Milena Monteiro
+
+
+**Graduanda em Ciência da Computação pela USP** com foco em **Desenvolvimento Full Stack**, especialmente em **back-end e desenvolvimento de APIs**. Gosto de contribuir em todas as áreas dos meus projetos, sempre buscando expandir minhas habilidades e enfrentar novos desafios.
+
+Projetos desenvolvidos:
+- 🌱 [Organ](https://github.com/experiencesystems/organ): Sistema Desktop de Gestão de Agronegócios
+- 🖥️ [Organ Web](https://github.com/experiencesystems/organ-web): Sistema Web de Gestão de Agronegócios com um Ecommerce Integrado
+- 🎲 [Rolar Dados](https://github.com/milenamonteiro/rolar-dados): Aplicativo Android de um Rolador de Dados
+- 🐾 [Pet View](https://github.com/milenamonteiro/pet-view): Sistema Desktop Gestor de Clínica Veterinária
+
+Projeto e desenvolvo soluções robustas e escaláveis para web e nuvem, sempre me mantendo atualizada com as mais recentes tecnologias em **Desenvolvimento Web, APIs e Cloud** para gerar bons resultados.
+</details>
+
+--- 
+
+<details open>
   <summary><strong>English version</strong></summary>
   
   ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px" width="20px"> Heya! I'm Milena Monteiro
@@ -17,24 +37,7 @@ Developed projects:
 I design and develop robust, scalable web and cloud-based solutions, always staying up to date with the latest technologies in **Web, API, and Cloud Development** to drive impactful results.
 </details>
 
----
 
-<details open>
-<summary><strong>Portuguese version</strong></summary>
-
-### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px" width="20px"> Olá! Eu sou a Milena Monteiro
-
-
-**Graduanda em Ciência da Computação pela USP** com foco em **Desenvolvimento Full Stack**, especialmente em **back-end e desenvolvimento de APIs**. Gosto de contribuir em todas as áreas dos meus projetos, sempre buscando expandir minhas habilidades e enfrentar novos desafios.
-
-Projetos desenvolvidos:
-- 🌱 [Organ](https://github.com/experiencesystems/organ): Sistema Desktop de Gestão de Agronegócios
-- 🖥️ [Organ Web](https://github.com/experiencesystems/organ-web): Sistema Web de Gestão de Agronegócios com um Ecommerce Integrado
-- 🎲 [Rolar Dados](https://github.com/milenamonteiro/rolar-dados): Aplicativo Android de um Rolador de Dados
-- 🐾 [Pet View](https://github.com/milenamonteiro/pet-view): Sistema Desktop Gestor de Clínica Veterinária
-
-Projeto e desenvolvo soluções robustas e escaláveis para web e nuvem, sempre me mantendo atualizada com as mais recentes tecnologias em **Desenvolvimento Web, APIs e Cloud** para gerar bons resultados.
-</details>
 
 <!--
 **milenamonteiro/milenamonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
